@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DeepSource Hackday</title>
-    <link>http://hackday.live/</link>
+    <link>https://hackday.live/</link>
     <description>Recent content on DeepSource Hackday</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://hackday.live/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hackday.live/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rules</title>
-      <link>http://hackday.live/</link>
+      <link>https://hackday.live/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://hackday.live/</guid>
+      <guid>https://hackday.live/</guid>
       <description>Participation is mandatory! (Exception: Production went down!) If you&amp;rsquo;re in Bangalore, come to office. You can participate solo/in a team of two. You have exactly 24 hours to build. Office will be open through the night. (Yes, we will stock up on Redbull) If you&amp;rsquo;re not in Bangalore, you can still participate. If a majority of your project is built before the hackathon, you maybe disqualified. There are no themes this time!</description>
     </item>
     

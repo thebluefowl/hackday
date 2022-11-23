@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DeepSource Hackday</title>
-    <link>http://hackday.live/categories/</link>
+    <link>https://hackday.live/categories/</link>
     <description>Recent content in Categories on DeepSource Hackday</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://hackday.live/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hackday.live/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
